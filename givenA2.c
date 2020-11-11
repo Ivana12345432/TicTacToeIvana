@@ -1,6 +1,7 @@
 #include "givenA2.h"
 
 int main(){
+//
  char board[N][N];
  createInitialBoard(board);
  printCurrentBoard(board);
